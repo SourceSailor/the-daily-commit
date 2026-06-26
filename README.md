@@ -18,3 +18,15 @@ Today, I continued my journey to strengthen my CSS knowledge by reviewing the fo
 - borders
 - margins
 - padding
+
+## June 25, 2026
+
+### What I Learned
+
+Today's goal remained the same - strengthen my knowledge of CSS terminology.
+
+Today's review included:
+
+- height and width
+- box model
+- outline
