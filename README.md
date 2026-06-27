@@ -30,3 +30,23 @@ Today's review included:
 - height and width
 - box model
 - outline
+
+## June 27, 2026
+
+### What I Learned
+
+Today's schedule allowed for a much longer learning session.
+
+Today's review included:
+
+- various text properties
+- font best practices and custom fonts
+- icons
+- link sudo classes
+- lists
+- tables
+- display properties
+- max-width and max-height
+- position properties
+- Z-index
+- overflow
