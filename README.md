@@ -50,3 +50,14 @@ Today's review included:
 - position properties
 - Z-index
 - overflow
+
+## June 30, 2026
+
+### What I Learned
+
+Today's review included:
+
+- CSS float along with the clear property
+- Various combinators
+- Inline-block display
+- The align property and the many ways CSS allows users to center elements
