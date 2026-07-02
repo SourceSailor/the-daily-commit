@@ -61,3 +61,16 @@ Today's review included:
 - Various combinators
 - Inline-block display
 - The align property and the many ways CSS allows users to center elements
+
+## July 1, 2026
+
+### What I Learned
+
+Today's review included:
+
+- Pseudo classes
+- Pseudo elements
+- Opacity
+- Navigation bar construction
+- Image Gallery best practices
+- Image sprites
