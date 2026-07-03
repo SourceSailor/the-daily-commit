@@ -74,3 +74,20 @@ Today's review included:
 - Navigation bar construction
 - Image Gallery best practices
 - Image sprites
+
+## July 1, 2026
+
+### What I Learned
+
+Today was a great day to learn! I was able to review the following concepts:
+
+- Various attribute selectors
+- Best practices in styling forms
+- How CSS counters operate
+- CSS units and best practices on when to use a specific unit
+- CSS Inheritance
+- !important and when to use it
+- Math functions
+- How to best optimize CSS
+- Accessibility best practices
+- Various ways to style website layouts
