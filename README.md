@@ -91,3 +91,15 @@ Today was a great day to learn! I was able to review the following concepts:
 - How to best optimize CSS
 - Accessibility best practices
 - Various ways to style website layouts
+
+## July 9, 2026
+
+### What I Learned
+
+I decided to pressure test out my CSS knowledge today by taking multiple online quizzes ranging from beginner to advanced.
+
+These quizzes helped me discover where some of my weak points remain while simultaneously showing me how far I have come in this past month.
+
+Currently, I would say I sit at intermediate knowledge with test scores averaging about 70% - 78%.
+
+My next goal is to continue reading documentation, pressure testing my knowledge and get my test scores above 80% by the middle of July!
