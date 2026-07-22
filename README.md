@@ -103,3 +103,15 @@ These quizzes helped me discover where some of my weak points remain while simul
 Currently, I would say I sit at intermediate knowledge with test scores averaging about 70% - 78%.
 
 My next goal is to continue reading documentation, pressure testing my knowledge and get my test scores above 80% by the middle of July!
+
+## July 21, 2026
+
+Unfortunately, I hurt my shoulder over the weekend and have been spending time recovering from my injury
+
+### What I Learned
+
+Today, I continued my journey by strengthening the following concepts:
+
+- Border Images
+- Various ways to use the background CSS property
+- Various ways to use the gradient CSS property
